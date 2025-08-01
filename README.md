@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="left">Olá 👋 Tudo bem?</h1>
 
-<!--
-**oliveirabianca14/oliveirabianca14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Meu nome é Bianca e eu sou uma estudante do Paraná.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre mim:</h2>
+
+###
+
+<p align="left">Tenho 16 anos e atualmente participo do Curso técnico de Desenvolvimento de Sistemas. ✨ 📚 🎯 🎲</p>
+
+###
+
+<h2 align="left">Eu trabalho com:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+</div>
+
+###
